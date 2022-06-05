@@ -1,6 +1,6 @@
 # Dana Lalova
 
-## ![Dana'sphoto](/myphoto.jpg)
+## ![Dana's photo](/my_photo.jpeg)
 
 ## Contacts
 Phone: (+380) 63-63-154-23
