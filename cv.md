@@ -67,3 +67,17 @@ function squareDigits(num){
 - _controlling_ the quality of the process, deliverables and estimates;
 - simultaneous management of several projects, communication through different timezones and countries (USA, Europe, China, Australia).
 
+## Education
+
+1. Masters degree at Odessa National Marine university. 2008-2014
+2. Projector school. Web design. Basics. 2019
+3. Development:
+   - Go IT. HTML + CSS. 2020
+   - Go IT. JS Basics. 2021
+   - RS School: Pre-course (in progress)
+
+## English knowledge - B2-C1 (Advanced)
+
+- Greenforest English school. IELTS preparation course.
+- Greenforest English school. Advanced level. 2020
+- London school of England. Advanced level. 2019
