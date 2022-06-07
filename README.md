@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://DanaOd.github.io/rsschool-cv/
+https://danaod.github.io/rsschool-cv/
