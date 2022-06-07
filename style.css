@@ -1,0 +1,11 @@
+:root {
+    --background-color-main: #fffefa;
+    --background-color-secondary: #f0e7e8;
+    --accent-color: #e39ea6;
+    --text-color: #21201e;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
